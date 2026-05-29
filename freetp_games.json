@@ -2,6 +2,23 @@
     "name": "ALZEEZ",
     "downloads": [
         {
+            "title": "Last Man Sitting Portable",
+            "uris": [
+                "magnet:?xt=urn:btih:6YBE4SDA57DNS4KCWKMCKUIPBR7E4FJ5&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce"
+            ],
+            "fileSize": "5.8 GB",
+            "uploadDate": "2026-05-29T20:17:02"
+        },
+        {
+            "title": "RimWorld v1.6.4633 by Pioneer",
+            "uris": [
+                "magnet:?xt=urn:btih:KMA4GFFSXFUZ2PS5SXDIKWDJ4WNJZFTH&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce",
+                "magnet:?xt=urn:btih:RQZB2BC4QX6KO2B2VTF5RNRKMJUXUPE3&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fpk%3Dfb70b34cbb4c0d36a11e392d54e70fc7"
+            ],
+            "fileSize": "31.68 KB",
+            "uploadDate": "2026-05-29T20:16:13"
+        },
+        {
             "title": "Ghost Exorcism Inc v2023.09.05 by Pioneer",
             "uris": [
                 "magnet:?xt=urn:btih:VQSV63HSERDFTZ4FGOR27NOSRCLUDOUV&tr=udp%3A%2F%2Fopentor.net%3A6969"
