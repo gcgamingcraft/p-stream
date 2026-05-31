@@ -2,6 +2,22 @@
     "name": "ALZEEZ",
     "downloads": [
         {
+            "title": "Last Man Sitting Portable",
+            "uris": [
+                "magnet:?xt=urn:btih:6YBE4SDA57DNS4KCWKMCKUIPBR7E4FJ5&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce"
+            ],
+            "fileSize": "5.8 GB",
+            "uploadDate": "2026-05-31T19:33:40"
+        },
+        {
+            "title": "Shamania v2.0.0 Portable",
+            "uris": [
+                "magnet:?xt=urn:btih:HSY24C2WN7WNRKJ7TVORQG7DLJINPBWS&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce"
+            ],
+            "fileSize": "2.77 GB",
+            "uploadDate": "2026-05-31T19:33:05"
+        },
+        {
             "title": "Staxel v1.5.63 GOG",
             "uris": [
                 "magnet:?xt=urn:btih:42MIEZDPYNPU76LQ7AG3AIN5CQ7IWKZA&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
