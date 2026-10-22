@@ -2,6 +2,14 @@
     "name": "ALZEEZ",
     "downloads": [
         {
+            "title": "PEAK v3.0.0",
+            "uris": [
+                "magnet:?xt=urn:btih:NVLX3MV5L43GDUQI4DIFSVLDFGRWOY2V&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce"
+            ],
+            "fileSize": "10 GB",
+            "uploadDate": "2026-10-22T19:32:00"
+        },
+        {
             "title": "Outbound v1.2.3",
             "uris": [
                 "magnet:?xt=urn:btih:D3PJNRGWLLT7YA5DDTRMJIL65WXZYGVY&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce"
