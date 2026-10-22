@@ -2,6 +2,14 @@
     "name": "ALZEEZ",
     "downloads": [
         {
+            "title": "Outbound v1.2.3",
+            "uris": [
+                "magnet:?xt=urn:btih:D3PJNRGWLLT7YA5DDTRMJIL65WXZYGVY&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce"
+            ],
+            "fileSize": "6 GB",
+            "uploadDate": "2026-10-22T18:54:19"
+        },
+        {
             "title": "Dawson Oaks Trailer Park v1.2.0",
             "uris": [
                 "magnet:?xt=urn:btih:S4TFFQ5ZFN7DMJ5OX5C3OBGPRDMKH3EN&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce"
